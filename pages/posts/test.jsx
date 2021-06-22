@@ -7,6 +7,10 @@ const test = () => {
       <Head>
         <title>Test</title>
         <meta charSet="utf-8" />
+        <meta name="description" content="This is the description of TEST file" />
+        <meta name="date" content="2021/3/18" />
+        <meta name="tag" content="test-deployment" />
+        <meta name="author" content="Esref Gunaydin" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <h1>This is a test page</h1>
